@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84682061466",
+    "project_id": "ustpappointmentsystem",
+    "storage_bucket": "ustpappointmentsystem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84682061466:android:8a86b183c4d3f38e181123",
+        "android_client_info": {
+          "package_name": "com.school.ustpappointment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYg-5wWBsEQrQoru1nTrLjZNwIXadcHmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
